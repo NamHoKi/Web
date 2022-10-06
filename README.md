@@ -1,1 +1,2 @@
-# Web
+# Web Study
+## HTML, css, JavaScript
