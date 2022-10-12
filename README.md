@@ -7,7 +7,7 @@
 ### css
 #### style - color, background-color, font
 -----
-### JavaScrupt
+### Java script
 #### 선언 - let
 #### if,else - ~= c언어
 #### for 문 - ~= c언어
